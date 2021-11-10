@@ -1,5 +1,5 @@
 # RocketLeagueInsiderWebScraper
-A Rocket League trading website web scraper that texts the user an update on the prices of specified items during specified intervals.
+A Rocket League trading website web scraper that texts the user an update on the prices of specified items during specified intervals. This is meant for rocket league traders that have a working knowledge of Python.
 
 #### Packages/Libraries needed
 1. BeautifulSoup
@@ -14,3 +14,4 @@ Twilio SMS
 1. Once a trial account is created, purchase a twilio phone number.
 1. Input the purchased number into "from_='**Purchased Number**'" and the verified user number into "to='**User Number**'".
 1. If the user does not have a Twilio verified phone number then the program will not be able to send the user a text alert.
+
