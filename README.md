@@ -1,6 +1,9 @@
 # RocketLeagueInsiderWebScraper
 A Rocket League trading website web scraper that texts the user an update on the prices of specified items during specified intervals. This is meant for rocket league traders that have a working knowledge of Python.
 
+# Things to node
+When uploading to AWS Lambda when it says cannot find lambda_function make sure you are zipping the contents of the folder and not the folder itself.
+
 #### Packages/Libraries needed
 1. BeautifulSoup
 1. lxml
