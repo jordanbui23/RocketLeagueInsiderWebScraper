@@ -43,3 +43,8 @@ if __name__ == "__main__":
 11. Enter rule name and description
 12. Under rule type schedule expression type rate(1 day)
 13. Add the EventBridge and then it should run once a day
+
+# DOESNT RUN ANYMORE DUE TO NEW TWILIO RULE
+*A2P 10DLC Announcements
+In order to send SMS and MMS messages to the U.S. using 10DLC phone numbers, all messages must be sent via an approved application-to-person (A2P) Campaign. Any unregistered U.S.-bound messages will be blocked. To see which of your numbers are compliant, you may check the registration status of your phone numbers
+. Learn more about the A2P 10DLC messaging registration process*
